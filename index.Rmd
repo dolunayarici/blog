@@ -1,5 +1,7 @@
 ---
-title: "Personal Website"
+title: "Dolunay's Travel Blog"
 ---
 
-Hello, World!
+Hi! I am Dolunay Arıcı. I love travelling and experiencing new things!
+
+![](IMG_3930.jpg)
